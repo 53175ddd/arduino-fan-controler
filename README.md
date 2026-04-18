@@ -1,0 +1,22 @@
+# Arduino で作る PC ケースファンコントローラー
+
+PC のケースファンのコントローラを Arduino で作る作例です．
+
+## ディレクトリ構成
+
+- `ROOT/`
+  - `items/`
+    - `casefan_controler/casefan_controler.ino`
+      - ファンコントローラのプログラム
+    - `casefan_meter/casefan_meter.ino`
+      - 回転数計のプログラム
+  - `README.md`
+    - このファイル
+
+## 使用部品と回路
+
+// 後で追記
+
+---
+
+This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
